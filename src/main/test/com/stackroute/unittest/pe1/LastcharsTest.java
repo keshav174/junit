@@ -6,7 +6,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class lastcharsTest {
+public class LastcharsTest {
     Last_chars obj;
 
     @Before

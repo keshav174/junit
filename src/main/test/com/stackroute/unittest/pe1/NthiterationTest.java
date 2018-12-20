@@ -6,7 +6,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class nthiterationTest {
+public class NthiterationTest {
     Nth_iteration obj;
 
     @Before

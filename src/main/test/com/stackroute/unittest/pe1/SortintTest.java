@@ -6,7 +6,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class sortintTest {
+public class SortintTest {
     Sort_int obj;
 
     @Before

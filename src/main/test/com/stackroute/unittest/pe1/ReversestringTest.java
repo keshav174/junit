@@ -6,7 +6,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class reversestringTest {
+public class ReversestringTest {
     Reverse_string obj;
 
     @Before

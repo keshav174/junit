@@ -6,7 +6,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class conditioncheckTest {
+public class ConditioncheckTest {
     Condition_check obj;
 
     @Before

@@ -7,7 +7,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class alphabetcheckTest {
+public class AlphabetcheckTest {
     Alphabet_check obj;
 
     @Before

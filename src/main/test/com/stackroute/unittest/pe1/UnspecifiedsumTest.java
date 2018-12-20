@@ -6,7 +6,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class unspecifiedsumTest {
+public class UnspecifiedsumTest {
     Unspecified_sum obj;
 
     @Before

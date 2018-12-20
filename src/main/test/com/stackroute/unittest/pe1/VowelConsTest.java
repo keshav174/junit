@@ -6,7 +6,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class vowelConsTest {
+public class VowelConsTest {
     Vowel_Cons obj;
 
     @Before
